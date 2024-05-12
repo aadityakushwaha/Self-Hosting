@@ -1,0 +1,1 @@
+This is the repository i will use to add all my self-hosting notes
